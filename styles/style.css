@@ -18,7 +18,7 @@ html {
     justify-content: center;
 }
 
-.page__heading::before  {
+.page__heading::before {
     content: '';
     position: absolute;
     width: 100%;
@@ -36,7 +36,7 @@ video {
 
 .page__title::after {
     content: "*";
-} 
+}
 
 .page__title {
     display: block;
