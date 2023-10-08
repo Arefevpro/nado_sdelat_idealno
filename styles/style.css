@@ -39,7 +39,6 @@ video {
 }
 
 .page__title {
-    display: block;
     max-width: 739px;
     max-height: 408px;
     color: #000;
@@ -51,7 +50,7 @@ video {
     letter-spacing: 4px;
     text-transform: uppercase;
     z-index: 1;
-    margin-top: 60px;
+    margin: 60px auto;
 }
 
 
